@@ -12,7 +12,7 @@
     "dacheng-pe": {
       "source": {
         "source": "github",
-        "repo": "<your-repo>/dacheng-pe-skill"
+        "repo": "yuanpingxu/dacheng-pe-skill"
       }
     }
   },
